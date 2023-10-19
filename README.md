@@ -7,7 +7,7 @@ This is a simple calculator application created in Java using Swing for the user
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Video Demo](#videodemo)
+- [Video Demo](#video-demo)
 
 ## Features
 
@@ -16,7 +16,7 @@ This is a simple calculator application created in Java using Swing for the user
 - Clear input with a "C" button and delete the last character with "DC".
 - Change the sign of a number with "(-)".
 - Calculate the factorial of a number with "n!".
-- Calculate the square and square root with "x²".
+- Calculate the square with "x²".
 - Calculate the result of exponentiation with "^".
 - Calculate the remainder with "%".
 - Calculate the natural logarithm (base e) with "log".
