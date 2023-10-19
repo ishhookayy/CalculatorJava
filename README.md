@@ -38,3 +38,4 @@ To run the Calculator App, follow these steps:
 - You can use the additional functions like factorial, square, exponentiation, and logarithm for more advanced calculations.
 
 ## Video Demo
+https://github.com/ishhookayy/CalculatorJava/assets/138235393/33143290-8be7-4bfc-90dd-4210de0b9c78
